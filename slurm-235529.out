@@ -1,0 +1,201 @@
+chewBBACA version 2.1.0 by Mickael Silva at https://github.com/B-UMMI/chewBBACA
+email contact: mickaelsilva@medicina.ulisboa.pt
+will use this training file : /home/people/16748145/conda/lib/python3.7/site-packages/CHEWBBACA/prodigal_training_files/Salmonella_enterica.trn
+Will use this number of cpus: 36
+Checking all programs are installed
+Checking Prodigal installed... True
+
+Starting Script at : 20:23:24-11/04/2020
+
+Starting Prodigal at : 20:23:24-11/04/2020
+chosen taxon :/home/people/16748145/conda/lib/python3.7/site-packages/CHEWBBACA/prodigal_training_files/Salmonella_enterica.trn
+done prodigal run on:CFS0203.fasta
+done prodigal run on:CFS0238.fasta
+done prodigal run on:CFS0225.fasta
+done prodigal run on:CFS0260.fasta
+done prodigal run on:CFS0207.fasta
+done prodigal run on:CFS0255.fasta
+done prodigal run on:CFS0216.fasta
+done prodigal run on:CFS0264.fasta
+done prodigal run on:CFS0230.fasta
+done prodigal run on:CFS0263.fasta
+done prodigal run on:CFS0223.fasta
+done prodigal run on:CFS0267.fasta
+done prodigal run on:CFS0229.fasta
+done prodigal run on:CFS0247.fasta
+done prodigal run on:CFS0220.fasta
+done prodigal run on:CFS0242.fasta
+done prodigal run on:CFS0234.fasta
+done prodigal run on:CFS0272.fasta
+done prodigal run on:CFS0227.fasta
+done prodigal run on:CFS0246.fasta
+done prodigal run on:CFS0214.fasta
+done prodigal run on:CFS0257.fasta
+done prodigal run on:CFS0232.fasta
+done prodigal run on:CFS0265.fasta
+done prodigal run on:CFS0222.fasta
+done prodigal run on:CFS0268.fasta
+done prodigal run on:CFS0235.fasta
+done prodigal run on:CFS0270.fasta
+done prodigal run on:CFS0204.fasta
+done prodigal run on:CFS0269.fasta
+done prodigal run on:CFS0228.fasta
+done prodigal run on:CFS0266.fasta
+done prodigal run on:CFS0226.fasta
+done prodigal run on:CFS0271.fasta
+done prodigal run on:CFS0212.fasta
+done prodigal run on:CFS0237.fasta
+done prodigal run on:CFS0273.fasta
+done prodigal run on:CFS0205.fasta
+done prodigal run on:CFS0239.fasta
+done prodigal run on:CFS0277.fasta
+done prodigal run on:CFS0211.fasta
+done prodigal run on:CFS0245.fasta
+done prodigal run on:CFS0274.fasta
+done prodigal run on:CFS0221.fasta
+done prodigal run on:CFS0244.fasta
+done prodigal run on:CFS0275.fasta
+done prodigal run on:CFS0206.fasta
+done prodigal run on:CFS0256.fasta
+done prodigal run on:CFS0276.fasta
+done prodigal run on:CFS0224.fasta
+done prodigal run on:CFS0243.fasta
+done prodigal run on:CFS0278.fasta
+done prodigal run on:CFS0202.fasta
+done prodigal run on:CFS0241.fasta
+done prodigal run on:CFS0281.fasta
+done prodigal run on:CFS0208.fasta
+done prodigal run on:CFS0252.fasta
+done prodigal run on:CFS0286.fasta
+done prodigal run on:CFS0219.fasta
+done prodigal run on:CFS0249.fasta
+done prodigal run on:CFS0289.fasta
+done prodigal run on:CFS0233.fasta
+done prodigal run on:CFS0250.fasta
+done prodigal run on:CFS0287.fasta
+done prodigal run on:CFS0217.fasta
+done prodigal run on:CFS0248.fasta
+done prodigal run on:CFS0280.fasta
+done prodigal run on:CFS0215.fasta
+done prodigal run on:CFS0261.fasta
+done prodigal run on:CFS0283.fasta
+done prodigal run on:CFS0201.fasta
+done prodigal run on:CFS0240.fasta
+done prodigal run on:CFS0284.fasta
+done prodigal run on:CFS0236.fasta
+done prodigal run on:CFS0259.fasta
+done prodigal run on:CFS0288.fasta
+done prodigal run on:CFS0218.fasta
+done prodigal run on:CFS0262.fasta
+done prodigal run on:CFS0279.fasta
+done prodigal run on:CFS0209.fasta
+done prodigal run on:CFS0251.fasta
+done prodigal run on:CFS0282.fasta
+done prodigal run on:CFS0213.fasta
+done prodigal run on:CFS0254.fasta
+done prodigal run on:CFS0291.fasta
+done prodigal run on:CFS0210.fasta
+done prodigal run on:CFS0253.fasta
+done prodigal run on:NC_003197_LT2.fasta
+done prodigal run on:CFS0231.fasta
+done prodigal run on:CFS0258.fasta
+done prodigal run on:CFS0290.fasta
+
+Checking all prodigal processes created the necessary files...
+All prodigal files necessary were created
+
+Finishing Prodigal at : 20:23:37-11/04/2020
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0201.fasta /home/people/16748145/chew/complete_genomes/CFS0202.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0203.fasta /home/people/16748145/chew/complete_genomes/CFS0204.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0205.fasta /home/people/16748145/chew/complete_genomes/CFS0206.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0207.fasta /home/people/16748145/chew/complete_genomes/CFS0208.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0209.fasta /home/people/16748145/chew/complete_genomes/CFS0210.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0211.fasta /home/people/16748145/chew/complete_genomes/CFS0212.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0213.fasta /home/people/16748145/chew/complete_genomes/CFS0214.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0215.fasta /home/people/16748145/chew/complete_genomes/CFS0216.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0217.fasta /home/people/16748145/chew/complete_genomes/CFS0218.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0219.fasta /home/people/16748145/chew/complete_genomes/CFS0220.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0221.fasta /home/people/16748145/chew/complete_genomes/CFS0222.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0223.fasta /home/people/16748145/chew/complete_genomes/CFS0224.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0225.fasta /home/people/16748145/chew/complete_genomes/CFS0226.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0227.fasta /home/people/16748145/chew/complete_genomes/CFS0228.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0229.fasta /home/people/16748145/chew/complete_genomes/CFS0230.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0231.fasta /home/people/16748145/chew/complete_genomes/CFS0232.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0233.fasta /home/people/16748145/chew/complete_genomes/CFS0234.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0235.fasta /home/people/16748145/chew/complete_genomes/CFS0236.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0237.fasta /home/people/16748145/chew/complete_genomes/CFS0238.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0239.fasta /home/people/16748145/chew/complete_genomes/CFS0240.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0241.fasta /home/people/16748145/chew/complete_genomes/CFS0242.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0243.fasta /home/people/16748145/chew/complete_genomes/CFS0244.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0245.fasta /home/people/16748145/chew/complete_genomes/CFS0246.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0247.fasta /home/people/16748145/chew/complete_genomes/CFS0248.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0249.fasta /home/people/16748145/chew/complete_genomes/CFS0250.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0251.fasta /home/people/16748145/chew/complete_genomes/CFS0252.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0253.fasta /home/people/16748145/chew/complete_genomes/CFS0254.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0255.fasta /home/people/16748145/chew/complete_genomes/CFS0256.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0257.fasta /home/people/16748145/chew/complete_genomes/CFS0258.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0259.fasta /home/people/16748145/chew/complete_genomes/CFS0260.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0261.fasta /home/people/16748145/chew/complete_genomes/CFS0262.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0263.fasta /home/people/16748145/chew/complete_genomes/CFS0264.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0265.fasta /home/people/16748145/chew/complete_genomes/CFS0266.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0267.fasta /home/people/16748145/chew/complete_genomes/CFS0268.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0269.fasta /home/people/16748145/chew/complete_genomes/CFS0270.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0271.fasta /home/people/16748145/chew/complete_genomes/CFS0272.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0273.fasta /home/people/16748145/chew/complete_genomes/CFS0274.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0275.fasta /home/people/16748145/chew/complete_genomes/CFS0276.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0277.fasta /home/people/16748145/chew/complete_genomes/CFS0278.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0279.fasta /home/people/16748145/chew/complete_genomes/CFS0280.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0281.fasta /home/people/16748145/chew/complete_genomes/CFS0282.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0283.fasta /home/people/16748145/chew/complete_genomes/CFS0284.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0286.fasta /home/people/16748145/chew/complete_genomes/CFS0287.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0288.fasta /home/people/16748145/chew/complete_genomes/CFS0289.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/CFS0290.fasta /home/people/16748145/chew/complete_genomes/CFS0291.fasta
+running analysis for pair : /home/people/16748145/chew/complete_genomes/NC_003197_LT2.fasta temp/protogenome0/protogenome0.fasta
+running analysis for pair : temp/protogenome1/protogenome1.fasta temp/protogenome2/protogenome2.fasta
+running analysis for pair : temp/protogenome3/protogenome3.fasta temp/protogenome4/protogenome4.fasta
+running analysis for pair : temp/protogenome5/protogenome5.fasta temp/protogenome6/protogenome6.fasta
+running analysis for pair : temp/protogenome7/protogenome7.fasta temp/protogenome8/protogenome8.fasta
+running analysis for pair : temp/protogenome9/protogenome9.fasta temp/protogenome10/protogenome10.fasta
+running analysis for pair : temp/protogenome11/protogenome11.fasta temp/protogenome12/protogenome12.fasta
+running analysis for pair : temp/protogenome13/protogenome13.fasta temp/protogenome14/protogenome14.fasta
+running analysis for pair : temp/protogenome15/protogenome15.fasta temp/protogenome16/protogenome16.fasta
+running analysis for pair : temp/protogenome17/protogenome17.fasta temp/protogenome18/protogenome18.fasta
+running analysis for pair : temp/protogenome19/protogenome19.fasta temp/protogenome20/protogenome20.fasta
+running analysis for pair : temp/protogenome21/protogenome21.fasta temp/protogenome22/protogenome22.fasta
+running analysis for pair : temp/protogenome23/protogenome23.fasta temp/protogenome24/protogenome24.fasta
+running analysis for pair : temp/protogenome25/protogenome25.fasta temp/protogenome26/protogenome26.fasta
+running analysis for pair : temp/protogenome27/protogenome27.fasta temp/protogenome28/protogenome28.fasta
+running analysis for pair : temp/protogenome29/protogenome29.fasta temp/protogenome30/protogenome30.fasta
+running analysis for pair : temp/protogenome31/protogenome31.fasta temp/protogenome32/protogenome32.fasta
+running analysis for pair : temp/protogenome33/protogenome33.fasta temp/protogenome34/protogenome34.fasta
+running analysis for pair : temp/protogenome35/protogenome35.fasta temp/protogenome36/protogenome36.fasta
+running analysis for pair : temp/protogenome37/protogenome37.fasta temp/protogenome38/protogenome38.fasta
+running analysis for pair : temp/protogenome39/protogenome39.fasta temp/protogenome40/protogenome40.fasta
+running analysis for pair : temp/protogenome41/protogenome41.fasta temp/protogenome42/protogenome42.fasta
+running analysis for pair : temp/protogenome43/protogenome43.fasta temp/protogenome44/protogenome44.fasta
+running analysis for pair : temp/protogenome45/protogenome45.fasta temp/protogenome46/protogenome46.fasta
+running analysis for pair : temp/protogenome47/protogenome47.fasta temp/protogenome48/protogenome48.fasta
+running analysis for pair : temp/protogenome49/protogenome49.fasta temp/protogenome50/protogenome50.fasta
+running analysis for pair : temp/protogenome51/protogenome51.fasta temp/protogenome52/protogenome52.fasta
+running analysis for pair : temp/protogenome53/protogenome53.fasta temp/protogenome54/protogenome54.fasta
+running analysis for pair : temp/protogenome55/protogenome55.fasta temp/protogenome56/protogenome56.fasta
+running analysis for pair : temp/protogenome57/protogenome57.fasta temp/protogenome58/protogenome58.fasta
+running analysis for pair : temp/protogenome59/protogenome59.fasta temp/protogenome60/protogenome60.fasta
+running analysis for pair : temp/protogenome61/protogenome61.fasta temp/protogenome62/protogenome62.fasta
+running analysis for pair : temp/protogenome63/protogenome63.fasta temp/protogenome64/protogenome64.fasta
+running analysis for pair : temp/protogenome65/protogenome65.fasta temp/protogenome66/protogenome66.fasta
+running analysis for pair : temp/protogenome67/protogenome67.fasta temp/protogenome68/protogenome68.fasta
+running analysis for pair : temp/protogenome69/protogenome69.fasta temp/protogenome70/protogenome70.fasta
+running analysis for pair : temp/protogenome71/protogenome71.fasta temp/protogenome72/protogenome72.fasta
+running analysis for pair : temp/protogenome73/protogenome73.fasta temp/protogenome74/protogenome74.fasta
+running analysis for pair : temp/protogenome75/protogenome75.fasta temp/protogenome76/protogenome76.fasta
+running analysis for pair : temp/protogenome77/protogenome77.fasta temp/protogenome78/protogenome78.fasta
+running analysis for pair : temp/protogenome79/protogenome79.fasta temp/protogenome80/protogenome80.fasta
+running analysis for pair : temp/protogenome81/protogenome81.fasta temp/protogenome82/protogenome82.fasta
+running analysis for pair : temp/protogenome83/protogenome83.fasta temp/protogenome84/protogenome84.fasta
+running analysis for pair : temp/protogenome85/protogenome85.fasta temp/protogenome86/protogenome86.fasta
+running analysis for pair : temp/protogenome87/protogenome87.fasta temp/protogenome88/protogenome88.fasta
+Total of 8459 loci that constitute the schema
+
+Starting Script at : 20:23:24-11/04/2020
+Finished Script at : 20:44:31-11/04/2020
